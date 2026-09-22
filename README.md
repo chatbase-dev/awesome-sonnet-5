@@ -62,4 +62,5 @@ A curated list of resources for working with Claude Sonnet 5, the Anthropic mode
 
 Open a pull request with a link, one line on why it belongs, and where it is referenced from.
 
+
 _Last reviewed: 2026-09-22_
